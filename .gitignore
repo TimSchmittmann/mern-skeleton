@@ -3,5 +3,5 @@
 /data/
 npm-debug.log
 .env
-.lock
 .vscode
+.eslintcache
